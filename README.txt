@@ -1,2 +1,2 @@
-1.  Native American NCLB math test results
-2.  Math NCLB test results by population of town/city
+1.  Native American NCLB math test results.  This would focus on one assessment maybe in comparison to other minority groups in 8th grade.
+2.  Math NCLB test results by population of town/city  This would focus on 1 state and one assessment for 3rd or 8th grade.
