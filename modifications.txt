@@ -1,0 +1,3 @@
+Suggested modificications to assignment 1
+consider adding some information on socio economic status of students
+-how many of this students are on free and reduced lunch program?
